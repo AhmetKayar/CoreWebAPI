@@ -1,0 +1,9 @@
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\bin\Debug\netcoreapp1.1\App.Project.WebAPI.deps.json
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\bin\Debug\netcoreapp1.1\App.Project.WebAPI.runtimeconfig.json
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\bin\Debug\netcoreapp1.1\App.Project.WebAPI.runtimeconfig.dev.json
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\bin\Debug\netcoreapp1.1\App.Project.WebAPI.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\bin\Debug\netcoreapp1.1\App.Project.WebAPI.pdb
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\obj\Debug\netcoreapp1.1\App.Project.WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\obj\Debug\netcoreapp1.1\App.Project.WebAPI.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\obj\Debug\netcoreapp1.1\App.Project.WebAPI.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.WebAPI\obj\Debug\netcoreapp1.1\App.Project.WebAPI.pdb

@@ -1,0 +1,7 @@
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.DataAccess\bin\Debug\netcoreapp1.1\App.Project.DataAccess.deps.json
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.DataAccess\bin\Debug\netcoreapp1.1\App.Project.DataAccess.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.DataAccess\bin\Debug\netcoreapp1.1\App.Project.DataAccess.pdb
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.DataAccess\obj\Debug\netcoreapp1.1\App.Project.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.DataAccess\obj\Debug\netcoreapp1.1\App.Project.DataAccess.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.DataAccess\obj\Debug\netcoreapp1.1\App.Project.DataAccess.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.DataAccess\obj\Debug\netcoreapp1.1\App.Project.DataAccess.pdb

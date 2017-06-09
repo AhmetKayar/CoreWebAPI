@@ -1,0 +1,7 @@
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Business\bin\Debug\netcoreapp1.1\App.Project.Business.deps.json
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Business\bin\Debug\netcoreapp1.1\App.Project.Business.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Business\bin\Debug\netcoreapp1.1\App.Project.Business.pdb
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Business\obj\Debug\netcoreapp1.1\App.Project.Business.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Business\obj\Debug\netcoreapp1.1\App.Project.Business.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Business\obj\Debug\netcoreapp1.1\App.Project.Business.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Business\obj\Debug\netcoreapp1.1\App.Project.Business.pdb

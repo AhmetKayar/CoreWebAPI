@@ -1,0 +1,7 @@
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Entites\bin\Debug\netcoreapp1.1\App.Project.Entites.deps.json
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Entites\bin\Debug\netcoreapp1.1\App.Project.Entites.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Entites\bin\Debug\netcoreapp1.1\App.Project.Entites.pdb
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Entites\obj\Debug\netcoreapp1.1\App.Project.Entites.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Entites\obj\Debug\netcoreapp1.1\App.Project.Entites.AssemblyInfo.cs
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Entites\obj\Debug\netcoreapp1.1\App.Project.Entites.dll
+C:\Users\ahmet\Desktop\Projeler\CoreWebAPI\App\App.Project.Entites\obj\Debug\netcoreapp1.1\App.Project.Entites.pdb
