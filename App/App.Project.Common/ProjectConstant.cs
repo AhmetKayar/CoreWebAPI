@@ -2,7 +2,8 @@
 
 namespace App.Project.Common
 {
-    public class Class1
+    public class ProjectConstant
     {
+
     }
 }
